@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @henryscott-wk
+- 👀 I’m an aspiring Python Guru
+- 🌱 I’m currently learning Japanese and Old English...
